@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(222, 189, 135);
+}
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 850px;
+    padding: 28px;
+    margin: 0 28px;
+    border-radius: 15px;
+    background-color: coral;
+
+}
+a:hover{
+    cursor: pointer;
+}
