@@ -1,8 +1,31 @@
+
 body {
     font-family: Arial, sans-serif;
     background-color: #fa0101;
     margin: 0;
     padding: 20px;
+}
+.form-group{
+    margin: 4%;
+}
+.container{
+    margin: 10%;
+    background-color: rgba(133, 168, 231, 0.63);
+    border-radius: 10%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+select{
+    margin-right: 20%;
+}
+.btn-submit{
+   padding: 4%;
+   margin-left: 20%;
+}
+
+h1{
+    color: blue;
+    font-size: 60%;
 }
 
 .form-container {
