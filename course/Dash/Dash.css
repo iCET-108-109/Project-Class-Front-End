@@ -1,0 +1,11 @@
+.card{
+    top: 10px;
+    display: flex;
+    position: relative;
+    left: 25%   ;
+}
+.titel{
+    display: flex;
+    position: relative;
+    left: 30px;
+}

@@ -4,3 +4,7 @@
     padding: 20px 20px; 
     cursor: pointer;
 }
+
+.row{
+    display: flex;
+}
